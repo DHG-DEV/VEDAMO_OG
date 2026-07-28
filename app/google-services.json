@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564222984572",
+    "project_id": "dhg-vedamo",
+    "storage_bucket": "dhg-vedamo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564222984572:android:3c73fd5e6ce7a8900de4f9",
+        "android_client_info": {
+          "package_name": "com.example.vedamo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtztXj9WF54XgA7UwxQaisJT-_Rx7pGi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
